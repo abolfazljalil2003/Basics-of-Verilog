@@ -10,7 +10,7 @@
 - وقتی گیت HIGH است، رسانا می‌شود
 - جریان را از Drain به Source می‌برد
 - در Verilog با `nmos` نمایش داده می‌شود
-![NMOS](N-ChannelMOSFET.jpg)
+![NMOS](https://wevolver-project-images.s3.us-west-1.amazonaws.com/0.z6bg7kj69hnN-ChannelMOSFET.jpg)
 ### PMOS (P-channel MOSFET)
 - وقتی گیت LOW است، رسانا می‌شود
 - جریان را از Source به Drain می‌برد
