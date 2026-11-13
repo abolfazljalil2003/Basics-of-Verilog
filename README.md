@@ -16,42 +16,42 @@
 
 ## محتوای آموزش
 
-### بخش ۰۰: مقدمه و شروع کار
+### [بخش ۰۰: مقدمه و شروع کار](00-Introduction/README.md)
 - Verilog چیست و چرا باید آن را یاد بگیریم؟
 - نصب و راه‌اندازی Xilinx ISE
 - ساخت اولین پروژه
 - آشنایی با شبیه‌سازی
 
-### بخش ۰۱: سطح ترانزیستور
+### [بخش ۰۱: سطح ترانزیستور](01-Transistor-Level/README.md)
 - معرفی NMOS و PMOS
 - مدل‌سازی Switch-Level
 - ساخت گیت‌های منطقی با ترانزیستور
 - CMOS Inverter و Transmission Gate
 
-### بخش ۰۲: سطح گیت
+### [بخش ۰۲: سطح گیت](02-Gate-Level/README.md)
 - گیت‌های منطقی پایه
 - Half Adder و Full Adder
 - Ripple Adder
 - Comparator و Multiplexer
 
-### بخش ۰۳: سطح جریان داده
+### [بخش ۰۳: سطح جریان داده](03-Dataflow/README.md)
 - انتساب پیوسته (Continuous Assignment)
 - عملگرهای Verilog
 - طراحی Adder، Decoder، Encoder
 - Priority Encoder و Multiplexer
 
-### بخش ۰۴: سطح رفتاری
+### [بخش ۰۴: سطح رفتاری](04-Behavioral/README.md)
 - بلوک‌های Always و Initial
 - Blocking و Non-blocking
 - Latch و Flip-Flop
 - Register و Counter
 - شمارنده‌ها و رجیسترهای شیفت
 
-### بخش ۰۵: موضوعات پیشرفته
+### [بخش ۰۵: موضوعات پیشرفته](05-Advanced/README.md)
 - ماشین‌های حالت محدود (FSM)
 - حافظه‌های RAM و ROM
 - Functions و Tasks
-- پروژه‌های کامل
+- پروژه‌های کامل (چراغ راهنمایی، Debouncer)
 
 ## نحوه استفاده
 
